@@ -5,7 +5,7 @@ Este projeto apresenta uma versão digital navegável do **Trabalho de Conclusã
 > **Gestão de Documentos: Uma Proposta de Inovação para a Coordenação de Aquisições e Contratos de Serviços da UFMT, Campus Cuiabá**  
 > Autora: **Valéria Alves de Sousa** – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso – Campus Octayde Jorge da Silva
 
-O objetivo deste projeto foi criar uma versão em **HTML e CSS** com navegação simples e intuitiva para facilitar a leitura e apresentação do trabalho para a disciplina Front-End do 1º Semestre no curso de Sistemas para Internet - IFMT.  
+O objetivo deste projeto foi criar uma versão em **HTML e CSS** com navegação simples e intuitiva para facilitar a leitura e apresentação do trabalho para a disciplina Front-End do 1º Semestre - 1 semana - do curso de Sistemas para Internet - IFMT.  
 
 ## 📚 Conteúdo
 A página conta com:
