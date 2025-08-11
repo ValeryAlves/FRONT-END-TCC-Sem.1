@@ -25,10 +25,10 @@ A página conta com:
    git clone https://github.com/ValeryAlves/FRONT-END-TCC-Sem.1.git
 2. Abra o arquivo index.html no navegador.
 
-🖼️ Prévia
+## 🖼️ Prévia
 <img width="667" height="945" alt="image" src="https://github.com/user-attachments/assets/eb4a5e29-d506-490f-8767-767454dfd594" />
 
-📜 Licença
+## 📜 Licença
 Este projeto é de uso acadêmico e pessoal, não devendo ser reproduzido sem autorização da autora.
 
 Feito com ❤️ por Valéria Alves
